@@ -1,13 +1,11 @@
-# LINMA2472_P1
-LINMA2472 projet 1
+# LINMA2472 P1: Group 40
+Ismail Salma  
+Merveille Pierre  
+Remacle Pierre  
+
+First project of the Algorithm in Data Science course.
+
+There is a jupyter notebook with the results of our project.
+The three files are used in order not to rebuild our matrices each time.
 
 
-
-first part would be to transform the PDF to a usable format such as txt 
-
-after that we would need to have a list of all character and a list for all character that play in each scene 
-
-and then we just have to do a concordance matrix to find the relation ship between the characters 
-we should represent that as a square matrix 
-
-last part would be to use pyplot to plot the relationship matrix 
